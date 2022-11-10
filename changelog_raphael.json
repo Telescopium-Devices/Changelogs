@@ -1,0 +1,31 @@
+Device changes:
+========================
+2022-11-06
+Credits:
+Thanks @TH779 for Tree
+@Nanhumly
+@AngelaCooljx
+* Initial Build
+* October security patch
+* Kernel Upstream to 4.9.275
+* Import simplified Chinese translation in parts
+* Improve paddings/margins
+* Fixed PPS charging
+* Disable blur on app launch
+* Enable background blur
+* Use miui captive portal
+* Set globally accessible NTP server
+* Use Clang-Proton to build
+
+
+Rom Changes:
+========================
+2022-11-06:
+- Add Statusbar Lyric
+- Add per-app volume
+- Add NFC qs tile
+- Add Light qs
+- Add lockscreen quick unlock.
+- Allow user to add/remove QS with one click
+- Use color accent for charging animation
+- Make New QS Footer background translucent
