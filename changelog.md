@@ -1,89 +1,51 @@
 Device changes:
 ========================
-[PE-Plus]2022-11-11:
-* Update redfin fingerprint
-* Configure aux camera for Aperture 
-* Improve face unlock for popup camera
-* Don't warn user about FC in Google TTS 
-* Enable Face Unlock
-* Enable Quick Tap
-* Use release-key
-
-[PE]2022-11-06:
-* Initial Build
-* October security patch
-* Kernel Upstream to 4.9.275
-* Import simplified Chinese translation in parts
+## Changelog
+[2022-12-25][13.0.4-HotFix]
+* Switch to Bool-X Kernel(OC)
+* Switch to bool-x clang
+* Introduce haptic feedback level adjustment
+* Introduce DC dimming preference
+* Update simplified Chinese translation(MiParts)
+* Move StatusBar Lyric to Statusbar Settings
+* Rebase our source
+* Drop Black Theme
+* Drop Pocket Mode
+* Drop some Gapps
+* Drop Metro
+* Use our addons
+* Fixed Strict Standby Policy and Force Background Freezer
+[2022-12-15][13.0.4]
+* Update our prebuilt kernel(Use Wind+)
 * Improve paddings/margins
-* Fixed PPS charging
-* Disable blur on app launch
-* Enable background blur
+* Update build fingerprint
+* Enable some stuffs
+* Use GcamGo
+* Linux Kernel 4.14.275
+* Fix up charging issue
 * Use miui captive portal
 * Set globally accessible NTP server
-* Use Clang-Proton to build
-
-
-Rom Changes:
-========================
-[PE-Plus]2022-11-11:
-* Switch to Plus Edition
-* Add Statusbar Lyric
-* Add haptic feedback for qs tiles
-* Add NFC tile 
+* Improve face unlock for popup camera
+* Don't warn user about FC in Google TTS
+* Add Pocket Mode
+* Add Black Theme
+* Add Vibration patterns from OOS
+* Add Pulse and Ambient notification bars
+* Use MiSans as default fonts
+* Add Gamespace and reTicker
+* Add StatusBar Lyric
+* Add GamesProps for GameSpace
+* Add Strict Standby Policy
 * Add Data Switch QS Tile
-* Add Light QS
-* Safetynet Passed Without Root
-* Export RecordingService for External Usage 
-* Reset props for status bar lyric
-* Reduce screenshot dismiss delay to 3 seconds
+* Add Light QuickSettings
+* Fixed Camera
+* Make New QS Footer background translucent
+* Some Memory optimization from ProtonAOSP
 * Implement lockscreen quick unlock
 * Override name of Mainland China carriers
-
-From Official Update:
-* November security patch
-* Add pre-app volume
-* Add Face Unlock
-* Add Adaptive Playback
-* Add Reading mode tile
-* Add Reading Mode
-* Add NetworkTraffic
-* Add LiveDisplay
-* Add LiveDisplay tile
-* Add Advanced restart options
-* Add Device controls shortcut to power menu
-* Add Tunables for clock AM/PM style
-* Add Incall vibration options
-* Add Long-press power while display is off for torch
-* Add VPN tile
-* Add AOD QS tile
-* Add USB Tether tile
-* Add Sync tile
-* Add heads up tile
-* Add caffeine QS tile
-* Add AmbientDisplay tile
-* Add DT2S & DT2W
-* ADD volume wake
-* Add hide gestural navigation hint bar
-* Add SwipeToScreenshot
-* Expose legacy Wi-Fi and cellular data QS tiles
-* Bring back good ol' circle battery style
-* Make the volume dialog expandable
-* Allow to enable Lockscreen Media Art
-
-
-[PE]2022-11-06:
-* Add Statusbar Lyric
-* Add per-app volume
-* Add NFC qs tile
-* Add Light qs
-* Add lockscreen quick unlock.
-* Allow user to add/remove QS with one click
-* Use color accent for charging animation
-* Make New QS Footer background translucent
-
-Credits:
-Thanks @TH779 for Tree
-@piscesmk2013
-@zclkkk
-@Nanhumly
-@AngelaCooljx
+* Add haptic feedback for qs tiles
+* And more...
+[Credits]
+* Thanks @TH779 for Tree
+* @piscesmk2013
+* @onettboots
