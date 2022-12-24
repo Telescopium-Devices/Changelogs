@@ -1,7 +1,7 @@
 Device changes:
 ========================
 ## Changelog
-[2022-12-25][13.0.4-HotFix]
+### [2022-12-25][13.0.4-HotFix]
 * Switch to Bool-X Kernel(OC)
 * Switch to bool-x clang
 * Introduce haptic feedback level adjustment
@@ -15,7 +15,7 @@ Device changes:
 * Drop Metro
 * Use our addons
 * Fixed Strict Standby Policy and Force Background Freezer
-[2022-12-15][13.0.4]
+### [2022-12-15][13.0.4]
 * Update our prebuilt kernel(Use Wind+)
 * Improve paddings/margins
 * Update build fingerprint
@@ -45,7 +45,7 @@ Device changes:
 * Override name of Mainland China carriers
 * Add haptic feedback for qs tiles
 * And more...
-[Credits]
+### [Credits]
 * Thanks @TH779 for Tree
 * @piscesmk2013
 * @onettboots
