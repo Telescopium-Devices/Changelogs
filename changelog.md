@@ -2,19 +2,12 @@ Device changes:
 ========================
 ## Changelog
 ### [2022-12-25][13.0.4-HotFix]
-* Switch to Bool-X Kernel(OC)
-* Switch to bool-x clang
-* Introduce haptic feedback level adjustment
-* Introduce DC dimming preference
 * Update simplified Chinese translation(MiParts)
 * Move StatusBar Lyric to Statusbar Settings
 * Rebase our source
 * Drop Black Theme
 * Drop Pocket Mode
-* Drop some Gapps
 * Drop Metro
-* Use our addons
-* Fixed Strict Standby Policy and Force Background Freezer
 ### [2022-12-15][13.0.4]
 * Update our prebuilt kernel(Use Wind+)
 * Improve paddings/margins
